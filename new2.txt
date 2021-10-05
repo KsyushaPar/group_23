@@ -1,0 +1,4 @@
+1)name -Parazenka Kseniya Yanovna
+2)age -32
+3)pets -0
+4)future salary -2000$
