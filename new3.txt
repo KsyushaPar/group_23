@@ -1,0 +1,5 @@
+film - Dallas Buyers Club
+serial - Breaking bad
+food - fish
+season - summer
+country - Italy
