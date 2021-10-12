@@ -1,0 +1,31 @@
+1) Provide Usability testing:
+	-Check for broken links and images
+	-Home link should be there on every single page
+	-All the buttons should be in a standard format and size
+	-All fonts should be same as per the requirements
+	-Content should be without any spelling or grammatical errors
+
+	2)Provide Functional testing:
+	-Test all the mandatory fields should be validated
+	-Test the system should not display the error message for optional fields
+	-Test that a confirmation message should display for update and delete operations
+	-Test the functionality of the buttons available
+	-Test the email functionality of the system
+
+	3)Provide  Compatibility testing:
+	-Test the website in different browsers (HTML, images, fonts)
+	-Test the java script code is usable in different browsers
+
+ 	4)Provide Database testing:
+	-Verify the database name: The database name should match with the specifications
+	-Verify the Tables, columns, column types and defaults: All things should match with the specifications
+	-Test the stored procedure by writing simple SQL queries
+
+	5)Provide Security Testing:
+	-Verify the important information like password, credit card numbers etc should display in encrypted format
+	-Verify the error messages should not display any important information
+	-Verify the SQL injection attacks
+	
+	6)Provide Performance Testing:
+	-Determine the performance, stability and scalability of an application under different load conditions
+	-Determine if the current architecture can support the application at peak user levels
