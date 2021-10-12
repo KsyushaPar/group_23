@@ -18,7 +18,7 @@
 
  	4)Provide Database testing:
 	-Verify the database name: The database name should match with the specifications
-	-Verify the Tables, columns, column types and defaults: All things should match with the specifications
+	-Verify the Tables, columns, column types: All things should match with the specifications
 	-Test the stored procedure by writing simple SQL queries
 
 	5)Provide Security Testing:
