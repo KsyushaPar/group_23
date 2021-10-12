@@ -1,0 +1,12 @@
+1) Bud Report ID
+2) Author (Reporter)
+3) Bug type
+4) Severity
+5) Title
+6) URL
+7) Steps to reproduce
+8) Expected result
+9) Actual result
+10) Priority
+11) Upload attachment
+12) Environment (Operating system/ Browser)
